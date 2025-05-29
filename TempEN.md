@@ -85,3 +85,10 @@
 # as desired ~ want
 
 # variety of data
+
+# Words Phase for IAM
+
+- IAM stand for Identity and Access Management. it is a framework of policies, technologies, and system that ensure the right individual or services have the appropriate access to resources in an IT environment.
+- principle of least privilege: only grant the minimum required permissions
+- use roles for services(not hard-coded credentials)
+- rotate access keys and use MFA for users
